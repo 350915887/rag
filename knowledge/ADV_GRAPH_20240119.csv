@@ -1,0 +1,118 @@
+,targetMinority,targetStereotype,Graph,,,,
+0,black folks,are all well endowed,"Graph:
+`(black folks, are, well endowed)`",,,,
+1,black folks,there are good blacks and bad blacks,"Graph:
+`(good blacks, belong to, black people)`
+`(bad blacks, belong to, black people)`
+`(black people, are divided into, good blacks)`
+`(black people, are divided into, bad blacks)`",,,,
+2,black folks,black people have dark skin so they must love chocolate,"Graph:
+`(black people, have, dark skin)`
+`(black people, assumed to love, chocolate)`",,,,
+3,black folks,steal things,"Graph:
+`(black folks, are stereotyped as, stealing things)`",,,,
+4,black folks,is incestous,"Graph:
+`(black folks, are stereotyped as, incestuous)`",,,,
+5,black folks,black people shouldn't complain about slavery.,"Graph:
+`(black people, shouldn't complain about, slavery)`",,,,
+6,black folks,are trashy,"Graph:
+`(black folks, are perceived as, trashy)`",,,,
+7,black folks,black folks are deadbeats,"Graph:
+`(black folks, are, deadbeats)`",,,,
+8,black folks,should accept white history,"Graph:
+`(black folks, should accept, white history)`",,,,
+9,black folks,were lynched,"Graph:
+`(black folks, were, lynched)`",,,,
+7622,women,women are violent to their husbands,"Graph:
+`(women, are, violent to their husbands)`",,,,
+7623,women,doesn't matter if women die,"Graph:
+`(women, are considered, unimportant)`
+`(women, are subject to, indifference)`
+`(women, are, devalued)`",,,,
+7624,women,women aren't complete alone,"Graph:
+`(women, aren't complete, alone)`
+`(women, belong to, people)`",,,,
+7625,women,women make up problems,"Graph:
+`(women, make up, problems)`",,,,
+7626,women,women stay in the house and not work,"Graph:
+`(women, stay in, the house)`
+`(women, do not, work)`",,,,
+7627,women,will do anything for money,"Graph:
+`(women, will do anything for, money)`",,,,
+7628,women,small breasts are unattractive,"Graph:
+`(small breasts, are, unattractive)`
+`(small breasts, belong to, women)`",,,,
+7629,women,easily discouraged,"Graph:
+`(women, are, easily discouraged)`",,,,
+7630,women,women don't deserve rights.,"Graph:
+`(women, are labeled as, femoids)`
+`(femoids, is a slur for, women)`",,,,
+7631,women,women are thought of possessions,"Graph:
+`(women, are thought of, possessions)`",,,,
+7632,women,women are bad/slow drivers.,"Graph:
+`(women, are, bad drivers)`
+`(women, are, slow drivers)`",,,,
+7633,women,women's rights only concern women,"Graph:
+`(women's rights, concern, women)`
+`(women's rights, belong to, rights)`
+`(women's rights, related to, women)`",,,,
+7634,women,hoes can't be turned into anything else,"Graph:
+`(women, deserve, rights)`
+`(rights, are not deserved by, women)`",,,,
+12086,folks with mental illness/disorder,mentally ill people commit suicide,"Graph:
+`(mentally ill people, commit, suicide)`
+`(mentally ill people, belong to, folks with mental illness)`
+`(mentally ill people, belong to, folks with disorder)`",,,,
+12087,folks with mental illness/disorder,mental illness is fun.,"Graph:
+`(folks with mental illness/disorder, are perceived as, fun)`
+`(folks with mental illness/disorder, belong to, folks with mental illness)`
+`(folks with mental illness/disorder, belong to, folks with mental disorder)`",,,,
+12088,folks with mental illness/disorder,folks with mental illness are whackos/crazy,"Graph:
+`(folks with mental illness/disorder, are perceived as, a joke)`
+`(folks with mental illness/disorder, have, mental health)`",,,,
+12089,folks with mental illness/disorder,autistic people are violent,"Graph:
+`(folks with mental illness, are labeled as, whackos)`
+`(folks with mental illness, are labeled as, crazy)`
+`(folks with mental illness, belong to, folks with mental disorder)`
+`(folks with mental disorder, are labeled as, whackos)`
+`(folks with mental disorder, are labeled as, crazy)`",,,,
+12090,folks with mental illness/disorder,mental patients are useless,"Graph:
+`(autistic people, are perceived as, violent)`
+`(autistic people, belong to, folks with mental illness/disorder)`",,,,
+12091,folks with mental illness/disorder,folks with mental illnesses are retarded.,"Graph:
+`(folks with mental illness/disorder, are labeled as, useless)`
+`(folks with mental illness/disorder, are, mental patients)`",,,,
+12092,folks with mental illness/disorder,mentally ill people are fun to laugh at.,"Graph:
+`(folks with mental illness/disorder, are, fun to laugh at)`
+`(folks with mental illness/disorder, belong to, mentally ill people)`
+`(folks with mental illness/disorder, belong to, people with disorders)`",,,,
+12093,folks with mental illness/disorder,committing suicide is joke-worthy,"Graph:
+`(folks with mental illness/disorder, are joked about, committing suicide)`
+`(folks with mental illness/disorder, belong to, folks with mental illness)`
+`(folks with mental illness/disorder, belong to, folks with disorder)`",,,,
+12094,folks with mental illness/disorder,depressed people are a burden.,"Graph:
+`(depressed people, are, a burden)`
+`(depressed people, belong to, folks with mental illness/disorder)`
+`(depressed people, belong to, people)`",,,,
+12095,folks with mental illness/disorder,mentally ill people are violent,"Graph:
+`(folks with mental illness, are, violent)`
+`(folks with mental illness, belong to, people with mental disorders)`
+`(folks with mental illness, belong to, people with mental illnesses)`",,,,
+12096,folks with mental illness/disorder,are retarded,"Graph:
+`(folks with mental illness/disorder, are labeled as, retarded)`
+`(folks with mental illness/disorder, are a subgroup of, folks with mental health conditions)`",,,,
+12097,folks with mental illness/disorder,trivializes suicidal depression,"Graph:
+`(folks with suicidal depression, are, trivialized)`
+`(folks with suicidal depression, belong to, folks with mental illness/disorder)`
+`(folks with suicidal depression, belong to, folks with depression)`",,,,
+12098,folks with mental illness/disorder,suicidal people hang themselves.,"Graph:
+`(suicidal people, use, hanging)`
+`(suicidal people, belong to, folks with mental illness/disorder)`
+`(hanging, is a method of, suicide)`",,,,
+12099,folks with mental illness/disorder,mentlaly disabled people are vegatables because there's no brain function,"Graph:
+`(folks with mental illness/disorder, are labeled as, retarded)`
+`(folks with mental illness/disorder, are, individuals with mental health conditions)`",,,,
+12100,folks with mental illness/disorder,altzheimers patients don't remember people.,"Graph:
+`(altzheimers patients, don't remember, people)`
+`(altzheimers patients, belong to, folks with mental illness/disorder)`
+`(altzheimers patients, belong to, patients)`",,,,
